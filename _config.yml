@@ -79,9 +79,9 @@ theme: typescript
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: ssh://git@spiral.xxiong.me:37401/gitrepo/hexo-spiral-public.git
+#  repo: ssh://git@spiral.xxiong.me:37401/gitrepo/hexo-spiral-public.git
 #  type: git
-#  repo: git@github.com:Gnekiah/gnekiah.github.io.git
+  repo: git@github.com:Gnekiah/gnekiah.github.io.git
 
 
 
